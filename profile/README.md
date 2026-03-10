@@ -34,6 +34,8 @@
 
 ## 🌐 Социальные сети
 
-* **Pinterest:** [https://pin.it/5uAwS1AX0](https://pin.it/5uAwS1AX0)
+* [Pinterest](https://pin.it/5uAwS1AX0)
+* [ВКонтакте](https://vk.com/supromteam)
+* [ИТД](https://xn--d1ah4a.com/@supromteam)
 
 *Список ссылок будет пополняться по мере развития проекта!*
