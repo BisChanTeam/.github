@@ -1,4 +1,4 @@
-<p align="center"><img width="600px" src="http://45.66.228.244:582/img/text-logo.png"/></p>
+<p align="center"><img width="600px" src="https://assets.is-a.ru/bischan/img/text-logo.png"/></p>
 
 # 📱 БисЧан — уникальный мессенджер для фандома Бискаса
 
